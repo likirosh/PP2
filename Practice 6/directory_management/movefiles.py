@@ -1,3 +1,4 @@
+import shutil
 # Copy a single file to another directory
 shutil.copy2('project/docs/readme.txt', 'project/tests/readme.txt')
 
