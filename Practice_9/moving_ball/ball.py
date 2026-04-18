@@ -10,7 +10,6 @@ class Ball:
         self.screen_width = screen_width
         self.screen_height = screen_height
 
-        # Start in the center
         self.x = screen_width // 2
         self.y = screen_height // 2
 

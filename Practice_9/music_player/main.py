@@ -7,8 +7,8 @@ pygame.mixer.init()
 
 screen = pygame.display.set_mode((800, 500))
 
-font = pygame.font.Font(None, 32)
-small_font = pygame.font.Font(None, 26)
+font = pygame.font.Font(None, 40)
+small_font = pygame.font.Font(None, 25)
 
 clock = pygame.time.Clock()
 
@@ -39,7 +39,7 @@ while running:
             elif event.key == pygame.K_q:
                 running = False
 
-    screen.fill((175, 238, 238))  
+    screen.fill((228, 103, 20))  
 
     title = font.render("Music Player", True, (0, 0, 128))
     screen.blit(title, (320, 50))
