@@ -45,11 +45,11 @@ while running:
     screen.blit(title, (320, 50))
 
     instructions = small_font.render(
-        "SPACE - Play/Pause   LEFT - Previous   RIGHT - Next   Q - Quit",
+        "SPACE for Play/Pause   LEFT for Previous   RIGHT for Next   Q for Exit",
         True,
         (0, 0, 128)
     )
-    screen.blit(instructions, (150, 100))
+    screen.blit(instructions, (130, 100))
 
     if len(player.playlist) > 0:
 
