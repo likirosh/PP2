@@ -5,8 +5,8 @@ SETTINGS_FILE    = "settings.json"
 
 DEFAULT_SETTINGS = {
     "sound":      True,
-    "car_color":  "blue",       # blue | red | green
-    "difficulty": "normal",     # easy | normal | hard
+    "car_color":  "blue",      
+    "difficulty": "normal",     
 }
 
 def load_settings():
