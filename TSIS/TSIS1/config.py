@@ -1,0 +1,7 @@
+DB_CONFIG = {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dbname": "phonebook",
+    "user": "dayrengay",
+    "password": "123456",
+}

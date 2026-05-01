@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Boris",
+    "email": "brexit@gmail.com",
+    "birthday": "25.09.1985",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "775628",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Grace",
+    "email": "grace@gmail.com",
+    "birthday": "12.03.2006",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "775530",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Daurentium",
+    "email": "gay@gmail.com",
+    "birthday": "21.01.2007",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "778420",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Leon",
+    "email": "starrooky@gmail.com",
+    "birthday": "25.04.1997",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "771325",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Dayana",
+    "email": "besthr@gmail.com",
+    "birthday": "14.07.2007",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "778134",
+        "type": "mobile"
+      }
+    ]
+  }
+]
