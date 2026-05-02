@@ -407,10 +407,6 @@ def import_from_json():
         print("file not found")
         return
 
-    if not filename.endswith(".json"):
-        print("file is not a json")
-        return
-
     try:
         with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -471,10 +467,6 @@ def import_from_csv():
 
     if not os.path.isfile(filename):
         print("file not found")
-        return
-
-    if not filename.endswith(".csv"):
-        print("file is not a csv")
         return
 
 

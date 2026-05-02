@@ -34,6 +34,11 @@
         "coins": 5
     },
     {
+        "name": "fgfddf",
+        "score": 174,
+        "distance": 114
+    },
+    {
         "name": "fluffy",
         "score": 169,
         "distance": 109,
@@ -48,10 +53,5 @@
         "name": "fluffy",
         "score": 97,
         "distance": 77
-    },
-    {
-        "name": "fluffy",
-        "score": 89,
-        "distance": 69
     }
 ]
